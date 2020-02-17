@@ -1,4 +1,16 @@
-#Para instalar react-navigation:
+Para executar o projeto é necessário:
+1. Ter o NodeJS instalado
+2. Abrir um prompt de comando no diretório do projeto e digitar:
+``` 
+npm install
+```
+3. Executar o projeto com um emulador Android/iOS aberto em sua máquina com
+```
+npm start
+```
+
+
+Para instalar react-navigation:
 1. Instalar react-navigation
 ```
 npm install react-navigation
