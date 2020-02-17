@@ -1,4 +1,4 @@
-Para executar o projeto é necessário:
+## Para executar o projeto é necessário:
 1. Ter o NodeJS instalado
 2. Abrir um prompt de comando no diretório do projeto e digitar:
 ``` 
@@ -10,7 +10,7 @@ npm start
 ```
 
 
-Para instalar react-navigation:
+## Para instalar react-navigation:
 1. Instalar react-navigation
 ```
 npm install react-navigation
